@@ -4,9 +4,6 @@ refactor: true
 panel_includes:
   - toc
 tail_includes:
-  - related-posts
-  - post-nav
-  - comments
 ---
 
 {% include lang.html %}
@@ -14,19 +11,7 @@ tail_includes:
 <h1 data-toc-skip>{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
-    <!-- published date -->
-    <span>
-      {{ site.data.locales[lang].post.posted }}
-      {% include datetime.html date=page.date tooltip=true lang=lang %}
-    </span>
-
-    <!-- lastmod date -->
-    {% if page.last_modified_at and page.last_modified_at != page.date %}
-    <span>
-      {{ site.data.locales[lang].post.updated }}
-      {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
-    </span>
-    {% endif %}
+   
 
   {% if page.image %}
     {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
@@ -48,32 +33,8 @@ tail_includes:
   {% endif %}
 
   <div class="d-flex justify-content-between">
-    <!-- author(s) -->
-    <span>
-      {% if page.author %}
-        {% assign authors = page.author %}
-      {% elsif page.authors %}
-        {% assign authors = page.authors %}
-      {% endif %}
+    
 
-      {{ site.data.locales[lang].post.written_by }}
-
-      <em>
-      {% if authors %}
-        {% for author in authors %}
-          <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-          {% unless forloop.last %}</em>, <em>{% endunless %}
-        {% endfor %}
-      {% else %}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-      {% endif %}
-      </em>
-    </span>
-
-    <div>
-      <!-- read time -->
-      {% include read-time.html content=content prompt=true lang=lang %}
-    </div>
 
   </div> <!-- .d-flex -->
 
