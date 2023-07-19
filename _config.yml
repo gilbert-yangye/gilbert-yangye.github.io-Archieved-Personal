@@ -13,17 +13,17 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gilbert Yang Ye # the main title
+title: Yang (Gilbert) Ye # the main title
 
 tagline: Personal Website # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal webpage of Yang (Gilbert) Ye.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://gilbert-yy.github.io"
@@ -31,21 +31,21 @@ url: "https://gilbert-yy.github.io"
 github:
   username: gilbert-yy # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Yang (Gilbert) Ye
+  email: ye.yang@ufl.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+ #   - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
