@@ -2,7 +2,7 @@
 title: About Me
 date: 2023-07-09 20:55:00 +0800
 pin: true
-layout: page
+img_path: '/posts/20180809'
 ---
 
 ## Prerequisites
