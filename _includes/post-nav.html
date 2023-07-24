@@ -1,35 +1,35 @@
-<!-- Navigation buttons at the bottom of the post. -->
+<!-- Navigation buttons at the bottom of the post. !!!! The button language has been hardcoded by Gilbert-->
 
 <div class="post-navigation d-flex justify-content-between">
-  {% if page.previous.url %}
-    <a
-      href="{{ site.baseurl }}{{ page.previous.url }}"
-      class="btn btn-outline-primary"
-      prompt="{{ site.data.locales[include.lang].post.button.previous }}"
-    >
-      <p>{{ page.previous.title }}</p>
-    </a>
-  {% else %}
-    <div
-      class="btn btn-outline-primary disabled"
-      prompt="{{ site.data.locales[include.lang].post.button.previous }}"
-    >
-      <p>-</p>
-    </div>
-  {% endif %}
-
   {% if page.next.url %}
     <a
-      href="{{ site.baseurl }}{{page.next.url}}"
+      href="{{ site.baseurl }}{{ page.next.url }}"
       class="btn btn-outline-primary"
-      prompt="{{ site.data.locales[include.lang].post.button.next }}"
+      prompt="{{ "Previous page" }}"
     >
       <p>{{ page.next.title }}</p>
     </a>
   {% else %}
     <div
       class="btn btn-outline-primary disabled"
-      prompt="{{ site.data.locales[include.lang].post.button.next }}"
+      prompt="{{ "No previous page ^_^" }}"
+    >
+      <p>-</p>
+    </div>
+  {% endif %}
+
+  {% if page.previous.url %}
+    <a
+      href="{{ site.baseurl }}{{page.previous.url}}"
+      class="btn btn-outline-primary"
+      prompt="{{ "Next page" }}"
+    >
+      <p>{{ page.previous.title }}</p>
+    </a>
+  {% else %}
+    <div
+      class="btn btn-outline-primary disabled"
+      prompt="{{ "Here is the last page ^_^" }}"
     >
       <p>-</p>
     </div>
