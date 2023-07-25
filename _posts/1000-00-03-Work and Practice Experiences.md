@@ -2,6 +2,7 @@
 title: Work and Practice Experiences
 date: 2023-06-10 14:10:00 +0800
 pin: true
+categories: [Experiences]
 ---
 
 

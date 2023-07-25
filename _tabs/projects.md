@@ -3,7 +3,7 @@ icon: fas fa-stream
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/life.md`{: .filepath } and it will show up on this page.
+> You can also navigate to the [**Categories/Project**](https://gilbert-yy.github.io/categories/projects/) tab to see the list of projects
 {: .prompt-tip }
 
 

@@ -2,12 +2,13 @@
 title: Education and Research Experiences
 date: 2023-06-20 11:33:00 +0800
 pin: true
+categories: [Experiences]
 mermaid: true
 ---
 
 ![Desktop View](/images/graduate.jpg){: width="300" height="100" }
 
-## Education
+## EDUCATION
 University of Florida, Gainesville, USA
 : Ph.D. in Applied Computational Science and Engineering
 : Sep 2020 - Expected May 2024
@@ -55,7 +56,7 @@ Aug 2017 - Dec 2017
 
 
 ![Desktop View](/images/Research_cropped.png){: width="400" height="250"}
-## Research Positions
+## RESEARCH POSITIONS
 University of Florida, Gainesville, USA
 : Research Assistant
 : Advisor: Dr. Eric Jing Du
