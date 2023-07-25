@@ -13,7 +13,7 @@ categories: [Experiences]
 
 `Role: Co-founder and Event Organizer`{: .filepath}
 
-![Desktop View](\images\Leadership\FoodForThought/banner.jpg){: width="600" height="400"} 
+![Desktop View](/images/Leadership/FoodForThought/banner.jpg){: width="600" height="400"} 
 _Project Banner_
 
 Recognizing the pressing food waste problem in Hong Kong, I took the initiative to form a project team 
