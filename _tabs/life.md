@@ -4,7 +4,7 @@ icon: fa fa-heart
 order: 3
 ---
 
-> Add Markdown syntax content to file `_tabs/life.md`{: .filepath } and it will show up on this page.
+> To be lived
 {: .prompt-tip }
 
 
