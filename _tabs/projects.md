@@ -3,53 +3,50 @@ layout: post
 icon: fas fa-stream
 order: 1
 date: 2023-05-20 11:33:00 +0800
+categories: [Projects]
 toc: true
 skip: true
 ---
 
+## Large Language Models (ChatGPT) and Human-Robot Interaction
 
-
-## Emergying Large Language Models and Human-Robot Interaction
-
-The emergence of Large Language Models (LLMs) 
-
+{% include embed/youtube.html id='m8dyJ2U8sCg' %}
 
 ## Embodied AI for dexiteous and situational-awaring robotics 
 
-hengxu embodied AI
-
+![img-description](/images/Project/drone.jpg){: width="500" height="400" }
+_Reinforcement Learning for Embodied Drone Navigation_
 
 
 ## Learning Environments with Augmentation and Robotics for Next-gen Emergency Responders (LEARNER) 
 
-LEARNER 
+
+{% include embed/youtube.html id='xcYvIhRYeok' %}
+
+{% include embed/youtube.html id='PAvxrwMuk9o' %}
 
 
 ## Kinematic and Kinesthetic Experience Transfer via VR Haptic Feedback for Human Motor Skill Learning
 
-dissertation
+{% include embed/youtube.html id='S9bqf7fwaAQ' %}
+
+{% include embed/youtube.html id='MUFVscm5k7g' %}
 
 
-## Human Spatial Memory Development
+## A GNSS Satellite Selection Scheme based on Line-of-Sight and Satellite Geometry with a Machine Learning Approach
 
-past papers
-
-## Satellite
-
-IC dissertation
+![img-description](/images/Project/satellite.png){: width="500" height="400" }
+_Master's dissertation at Imperial College London'_
 
 
 ## A Cost-Benefit Analysis of Building Information Modelling’s (BIM) Application in Building’s Life Cycle in Hong Kong
-PolyU dissertation
 
+![img-description](/images/Project/bim.png){: width="500" height="400" }
+_Bachelor's dissertation at Hong Kong Polytechnic University'_
 
-## Assessing Financial Forecasts in Equity-based Crowdfunding
-PolyU RA
+## Human Spatial Memory Development
 
-
-## Building design
-UF coursework project
-
-## Witters
+![img-description](/images/Project/memory.jpg){: width="500" height="400" }
+_Exploring the impact of VR and 3D visualization on spaital memory with an experiment_
 
 
