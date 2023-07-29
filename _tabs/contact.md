@@ -16,3 +16,9 @@ Address:
 
 Email:
 : ye.yang@ufl.edu
+
+Linkedin:
+: [Link](https://www.linkedin.com/in/yang-ye-855bb7148)
+
+Google Scholar:
+: [Link](https://scholar.google.com/citations?hl=en&user=xCMKpr0AAAAJ)
