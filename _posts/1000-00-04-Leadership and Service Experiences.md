@@ -8,43 +8,6 @@ categories: [Experiences]
 
 ## LEADERSHIP EXPERIENCES
 
-### Societal Impact: Food For Thought
-`June 2016 - April 2017`{: .filepath}
-
-`Role: Co-founder and Event Organizer`{: .filepath}
-
-![Desktop View](/images/Leadership/FoodForThought/banner.jpg){: width="600" height="400"} 
-_Project Banner_
-
-Recognizing the pressing food waste problem in Hong Kong, I took the initiative to form a project team 
-with the goal of raising awareness and motivating students to address this issue. 
-To secure funding, we strategically targeted the student project fund at the Hong Kong Polytechnic University. 
-After conducting a thorough site investigation, we identified the challenges and potential solutions, which laid the groundwork for our project intent.
-
-![Desktop View](/images/Leadership/FoodForThought/collection.png){: width="350" height="300", .right}
-
-Next, we gathered a group of passionate students who shared our vision and formed a cohesive project team. 
-We drafted a comprehensive project proposal collaboratively, encompassing both local (HK) and global (UK) promotion sessions.
-Each session included volunteer services, workshops, and Facebook hashtag challenges. Finally, we concluded the project with an exhibition.
-
-I took the lead on organizing volunteer events and coordinating the global session itinerary, while actively participating in other project activities. 
-Throughout the process, we encountered various challenges, including event promotion, volunteer recruitment, and coordinating logistics with NGOs and university clubs.
-These challenges were further amplified during our visit to the UK for the global session.
-
-
-With determination and close teamwork, we ultimately secured the funding award after numerous meetings and collaborative efforts with potential partners, 
-including NGOs and university student associations. The successful acquisition of the prize marked the commencement of our organizing efforts.
-
-Over the course of several months, we successfully executed all proposed activities and achieved our key success factors.
-Our commitment to addressing the food waste problem left a lasting impact on both the local community and a global audience.
-
-This project not only highlighted my leadership skills but also demonstrated my ability 
-to organize and coordinate complex initiatives and activities. 
-Overcoming challenges with resilience and ingenuity, 
-I took charge of coordinating diverse activities, ensuring their smooth execution and impactful outcomes.
-
-----------------------------------
-
 
 ### Pilot Project 1: Automation of Structural Horizontal Joint Design and Regulation Verification.
 `June 2018`{: .filepath}
@@ -114,6 +77,46 @@ The project's success not only expedited database maintenance but also demonstra
 
 ----------------------------------
 
+### Food For Thought: Towards a No-Food-Waste Society
+
+
+`June 2016 - April 2017`{: .filepath}
+
+`Role: Co-founder and Event Organizer`{: .filepath}
+
+![Desktop View](/images/Leadership/FoodForThought/banner.jpg){: width="600" height="400"} 
+_Project Banner_
+
+Recognizing the pressing food waste problem in Hong Kong, I took the initiative to form a project team 
+with the goal of raising awareness and motivating students to address this issue. 
+To secure funding, we strategically targeted the student project fund at the Hong Kong Polytechnic University. 
+After conducting a thorough site investigation, we identified the challenges and potential solutions, which laid the groundwork for our project intent.
+
+![Desktop View](/images/Leadership/FoodForThought/collection.png){: width="350" height="300", .right}
+
+Next, we gathered a group of passionate students who shared our vision and formed a cohesive project team. 
+We drafted a comprehensive project proposal collaboratively, encompassing both local (HK) and global (UK) promotion sessions.
+Each session included volunteer services, workshops, and Facebook hashtag challenges. Finally, we concluded the project with an exhibition.
+
+I took the lead on organizing volunteer events and coordinating the global session itinerary, while actively participating in other project activities. 
+Throughout the process, we encountered various challenges, including event promotion, volunteer recruitment, and coordinating logistics with NGOs and university clubs.
+These challenges were further amplified during our visit to the UK for the global session.
+
+
+With determination and close teamwork, we ultimately secured the funding award after numerous meetings and collaborative efforts with potential partners, 
+including NGOs and university student associations. The successful acquisition of the prize marked the commencement of our organizing efforts.
+
+Over the course of several months, we successfully executed all proposed activities and achieved our key success factors.
+Our commitment to addressing the food waste problem left a lasting impact on both the local community and a global audience.
+
+This project not only highlighted my leadership skills but also demonstrated my ability 
+to organize and coordinate complex initiatives and activities. 
+Overcoming challenges with resilience and ingenuity, 
+I took charge of coordinating diverse activities, ensuring their smooth execution and impactful outcomes.
+
+
+----------------------------------
+
 ### Chinese Mainland Student Association
 `Nov 2015 - May 2017 `{: .filepath}
 
@@ -145,22 +148,6 @@ I exhibited my commitment to enhancing the student experience and fostering a vi
 ## SERVICE EXPERIENCES
 
 
-### Meet the underprivileged
-`Jan 2017 - Apr 2017 `{: .filepath}
-
-`Role: Volunteer`{: .filepath}
-
-Organized by the university, we formed a team to visit the "Youth at risk". We visited communities and had some deep conversations throughout the period. 
-
-Driven by my passion for making a positive impact in the lives of others, 
-I joined a university-organized team to visit and support the "Youth at risk". 
-This experience allowed me to connect with vulnerable communities and engage in meaningful conversations throughout our time together.
-
-As we engaged in deep conversations, I listened to the challenges and aspirations of the youth, 
-seeking to understand their unique experiences and perspectives. 
-By building trusting relationships and fostering an atmosphere of openness, we created a safe space for the youth to share their stories, hopes, and dreams.
-
-----------------------------------
 
 
 ### Care for the Elderly
@@ -190,3 +177,21 @@ As we presented our proposal to relevant organizations, I passionately advocated
 underscoring the importance of nurturing a compassionate and age-friendly community.
 
 This service experience reinforced my commitment to using my skills and compassion to uplift and empower vulnerable communities. 
+
+
+### Meet the underprivileged
+`Jan 2017 - Apr 2017 `{: .filepath}
+
+`Role: Volunteer`{: .filepath}
+
+Organized by the university, we formed a team to visit the "Youth at risk". We visited communities and had some deep conversations throughout the period. 
+
+Driven by my passion for making a positive impact in the lives of others, 
+I joined a university-organized team to visit and support the "Youth at risk". 
+This experience allowed me to connect with vulnerable communities and engage in meaningful conversations throughout our time together.
+
+As we engaged in deep conversations, I listened to the challenges and aspirations of the youth, 
+seeking to understand their unique experiences and perspectives. 
+By building trusting relationships and fostering an atmosphere of openness, we created a safe space for the youth to share their stories, hopes, and dreams.
+
+----------------------------------
