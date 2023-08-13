@@ -38,6 +38,23 @@ _Reinforcement Learning for Embodied Drone Navigation_
 _Master's dissertation at Imperial College London'_
 
 
+## Numerical simulation for wave propagation using Python
+
+![img-description](/images/Project/wave.gif){: width="500" height="400" }
+_Coursework at Imperial College London'_
+
+## Numerical simulation for fluid particles using C++ with HPC
+
+![img-description](/images/Project/Fluid3.gif){: width="500" height="400" }
+![img-description](/images/Project/Fluid2.gif){: width="500" height="400" }
+_Coursework at Imperial College London'_
+
+## Numerical simulation for Game-of-Lift using C++ visualized by Python
+
+![img-description](/images/Project/Game-of-Life.gif){: width="500" height="400" }
+_Coursework at Imperial College London'_
+
+
 ## A Cost-Benefit Analysis of Building Information Modelling’s (BIM) Application in Building’s Life Cycle in Hong Kong
 
 ![img-description](/images/Project/bim.png){: width="500" height="400" }
