@@ -19,7 +19,8 @@ _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine
 2. [**Multi-modal feedback** for whole-body scale **exoskeleton** training](https://gilbert-yangye.github.io/posts/Haptic-Exoskeleton-training/) 
 3. [Force-based AI control for **dexiteous robot arm** operation](https://gilbert-yangye.github.io/posts/Embodied-Robot/)
 4. [Large Language Models (**ChatGPT**) in Human-Robot Interaction](https://gilbert-yangye.github.io/posts/ChatGPT-Robot/)
-
+5. [Human **body motion mapping** for ROV posture control](https://gilbert-yangye.github.io/posts/ROV/)
+6. [**Human motion mapping** for intuitive robot arm teleoperation](https://gilbert-yangye.github.io/posts/HumanIK/)
 
 
 ## Telepresence, tele-training, and tele-operation
@@ -30,7 +31,8 @@ _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine
 2. [Multiplayer collaborative training: **See, hear, and feel** your co-workers](https://gilbert-yangye.github.io/posts/Multiplayer/)
 3. [A **VR Neighborhood** for EMS Training: Immersive navigation and task-performing](https://gilbert-yangye.github.io/posts/Prestonwood/)
 4. [Exoskeleton training **without any exoskeleton**: simulated haptic feedback for training](https://gilbert-yangye.github.io/posts/Haptic-Exoskeleton-training/)
-
+5. [Human body motion mapping for **ROV posture control**](https://gilbert-yangye.github.io/posts/ROV/)
+6. [Human motion mapping for **intuitive robot arm teleoperation**](https://gilbert-yangye.github.io/posts/HumanIK/)
 
 
 ## Artificial Intelligence
@@ -52,7 +54,8 @@ _Image downloaed [**online**](https://www.healthtransformation.net/understanding
 2. [Whole-body scale **motion following** in VR for exoskeleton motor skill learning](https://gilbert-yangye.github.io/posts/Haptic-Exoskeleton-training/)
 3. [Human **Spatial Memory Development**: differences of learning with paper, 3D model, and VR](https://gilbert-yangye.github.io/posts/Spatial-Memory/)
 4. [Multiplayer collaborative training: experience and cognition impact of **feeling your virtual co-worker**](https://gilbert-yangye.github.io/posts/Multiplayer/)
-
+5. [Human **body motion mapping** for ROV posture control](https://gilbert-yangye.github.io/posts/ROV/)
+6. [**Humanlike IK** for intuitive robot arm teleoperation](https://gilbert-yangye.github.io/posts/HumanIK/)
 
 
 

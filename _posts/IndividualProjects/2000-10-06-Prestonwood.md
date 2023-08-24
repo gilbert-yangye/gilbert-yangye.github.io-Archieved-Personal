@@ -4,7 +4,7 @@ date: 2023-05-25 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects]
-tags: [Training, Virtual Reality, Locomotion, Computer Graphics, Multi-modal feedback]
+tags: [Training, Virtual Reality, Locomotion, Computer Graphics, Multi-modal feedback, Inverse Kinematics]
 ---
 
 > **You can also navigate the related posts using the above tags**

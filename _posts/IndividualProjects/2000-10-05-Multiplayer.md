@@ -4,7 +4,7 @@ date: 2023-05-26 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects]
-tags: [Training, Human Psychology and Physiology, Virtual Reality, Multi-modal feedback]
+tags: [Training, Human Psychology and Physiology, Virtual Reality, Multi-modal feedback, Inverse Kinematics]
 ---
 
 
