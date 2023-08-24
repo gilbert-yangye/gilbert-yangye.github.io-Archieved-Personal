@@ -7,62 +7,50 @@ toc: true
 skip: true
 ---
 
-## Large Language Models (ChatGPT) and Human-Robot Interaction
+## **Human and Machine/Robot interaction**
+![img-description](/images/Project/HCI.jpg){: width="200" height="200" }
+_Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine-interaction-and-sensing/)_
 
-{% include embed/youtube.html id='m8dyJ2U8sCg' %}
-
-## Embodied AI for dexiteous and situational-awaring robotics 
-
-![img-description](/images/Project/drone.jpg){: width="500" height="400" }
-_Reinforcement Learning for Embodied Drone Navigation_
-
-
-## Learning Environments with Augmentation and Robotics for Next-gen Emergency Responders (LEARNER) 
+1. [**Robot trainer: Robot-VR system for welding training**](https://www.eng-alliance.com/services-eng-aliance/civil-structural-engineering/structural-analysis-design) 
+2. [**HapticExoskeleton Training with MoCap and Whole-body Haptic Feedback]
+3. Force-based AI control for dexiteous robot operation
+4. Large Language Models (ChatGPT) for Human-Robot Interaction
 
 
-{% include embed/youtube.html id='xcYvIhRYeok' %}
 
-{% include embed/youtube.html id='PAvxrwMuk9o' %}
-
-
-## Kinematic and Kinesthetic Experience Transfer via VR Haptic Feedback for Human Motor Skill Learning
-
-{% include embed/youtube.html id='S9bqf7fwaAQ' %}
-
-{% include embed/youtube.html id='MUFVscm5k7g' %}
+## Tele-training and Tele-operation
+Robot-assisted immersive kinematic experience transfer for welding training
+Multiplayer collaborative training
+A Virtual Reality (VR) Neighborhood for EMS Training - Prestonwood
+Immersive Exoskeleton Training with MoCap and Whole-body Haptic Feedback
 
 
-## A GNSS Satellite Selection Scheme based on Line-of-Sight and Satellite Geometry with a Machine Learning Approach
 
-![img-description](/images/Project/satellite.png){: width="500" height="400" }
-_Master's dissertation at Imperial College London'_
-
-
-## Numerical simulation for wave propagation using Python
-
-![img-description](/images/Project/wave.gif){: width="500" height="400" }
-_Coursework at Imperial College London'_
-
-## Numerical simulation for fluid particles using C++ with HPC
-
-![img-description](/images/Project/Fluid3.gif){: width="500" height="400" }
-![img-description](/images/Project/Fluid2.gif){: width="500" height="400" }
-_Coursework at Imperial College London'_
-
-## Numerical simulation for Game-of-Lift using C++ visualized by Python
-
-![img-description](/images/Project/Game-of-Life.gif){: width="500" height="400" }
-_Coursework at Imperial College London'_
+## AI
+A GNSS Satellite Selection Scheme based on Line-of-Sight and Satellite Geometry with a Machine Learning Approach
+Force-based AI control for dexiteous robot operation
+Embodied AI for dexiteous and situational-awaring drone naviagation control
+Large Language Models (ChatGPT) for Human-Robot Interaction
 
 
-## A Cost-Benefit Analysis of Building Information Modelling’s (BIM) Application in Building’s Life Cycle in Hong Kong
 
-![img-description](/images/Project/bim.png){: width="500" height="400" }
-_Bachelor's dissertation at Hong Kong Polytechnic University'_
+## Human biomechenics, phyiology, and psychology
+Human Spatial Memory Development
+Robot-assisted immersive kinematic experience transfer for welding training
+Multiplayer collaborative training
+Immersive Exoskeleton Training with MoCap and Whole-body Haptic Feedback
 
-## Human Spatial Memory Development
 
-![img-description](/images/Project/memory.jpg){: width="500" height="400" }
-_Exploring the impact of VR and 3D visualization on spaital memory with an experiment_
 
+## Computation, programming, and development
+Numerical simulation for Game-of-Lift using C++ visualized by Python
+Numerical simulation for fluid particles using C++ with HPC
+Numerical simulation for wave propagation using Python
+A Virtual Reality (VR) Neighborhood for EMS Training - Prestonwood
+VR UI and storyline design
+
+
+
+## Management
+A Cost-Benefit Analysis of Building Information Modelling’s (BIM) Application in Building’s Life Cycle in Hong Kong
 

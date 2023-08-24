@@ -42,6 +42,20 @@ tail_includes:
 </div> <!-- .post-meta -->
 
 <div class="post-content">
+
+<!-- tags Gilert added -->
+  {% if page.tags.size > 0 %}
+  <div class="post-tags">
+    <i class="fa fa-tags fa-fw me-1"></i>
+      {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/"
+          class="post-tag no-text-decoration" >
+        {{- tag -}}
+      </a>
+      {% endfor %}
+  </div>
+  {% endif %}
+
   {{ content }}
 </div>
 
@@ -59,6 +73,7 @@ tail_includes:
   {% endif %}
 
   <!-- tags -->
+  <!--
   {% if page.tags.size > 0 %}
   <div class="post-tags">
     <i class="fa fa-tags fa-fw me-1"></i>
@@ -70,6 +85,7 @@ tail_includes:
       {% endfor %}
   </div>
   {% endif %}
+  -->
 
   <div class="post-tail-bottom
     d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">

@@ -9,7 +9,7 @@ order: 2
 
 ## Peer-reviewed journal papers:
 
-1.  [You, H., **Ye, Y.**, Zhou, T., Zhu, Q., & Du, J. (2023). Robot-Enabled Construction Assembly with Automated Sequence Planning Based on ChatGPT: RoboGPT. Buildings, 13(7), 1772.] (https://doi.org/10.3390/buildings13071772]https://www.mdpi.com/2075-5309/13/7/1772)
+1.  [You, H., **Ye, Y.**, Zhou, T., Zhu, Q., & Du, J. (2023). Robot-Enabled Construction Assembly with Automated Sequence Planning Based on ChatGPT: RoboGPT. Buildings, 13(7), 1772.](https://doi.org/10.3390/buildings13071772]https://www.mdpi.com/2075-5309/13/7/1772)
 2.	[Xia, P., You, H., **Ye, Y.**, & Du, J. (2023). ROV teleoperation via human body motion mapping: Design and experiment. Computers in Industry, 150, 103959.](https://www.sciencedirect.com/science/article/pii/S0166361523001094)
 3.	[**Ye, Y.**, Xia, P., Zhou, T., & Du, J. (2023). Spatial Memory of BIM and Virtual Reality: Mental Mapping Study. Journal of Construction Engineering and Management, 149(7), 04023042.](https://ascelibrary.org/doi/full/10.1061/JCEMD4.COENG-12808)
 4.	[Zhou, T., Zhu, Q., **Ye, Y.**, & Du, J. (2023). Humanlike Inverse Kinematics for Improved Spatial Awareness in Construction Robot Teleoperation: Design and Experiment. Journal of Construction Engineering and Management, 149(7), 04023044.](https://ascelibrary.org/doi/full/10.1061/JCEMD4.COENG-13350)
