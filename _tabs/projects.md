@@ -21,6 +21,7 @@ _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine
 4. [Large Language Models (**ChatGPT**) in Human-Robot Interaction](https://gilbert-yangye.github.io/posts/ChatGPT-Robot/)
 5. [Human **body motion mapping** for ROV posture control](https://gilbert-yangye.github.io/posts/ROV/)
 6. [**Human motion mapping** for intuitive robot arm teleoperation](https://gilbert-yangye.github.io/posts/HumanIK/)
+7. [**Drone operator training** in VR: performance prediction and training adaptation](https://gilbert-yangye.github.io/posts/Adaptive-Drone/)
 
 
 ## Telepresence, tele-training, and tele-operation
@@ -56,7 +57,7 @@ _Image downloaed [**online**](https://www.healthtransformation.net/understanding
 4. [Multiplayer collaborative training: experience and cognition impact of **feeling your virtual co-worker**](https://gilbert-yangye.github.io/posts/Multiplayer/)
 5. [Human **body motion mapping** for ROV posture control](https://gilbert-yangye.github.io/posts/ROV/)
 6. [**Humanlike IK** for intuitive robot arm teleoperation](https://gilbert-yangye.github.io/posts/HumanIK/)
-
+7. [Drone operator training in VR: **performance prediction and training adaptation**](https://gilbert-yangye.github.io/posts/Adaptive-Drone/)
 
 
 ## Computation
