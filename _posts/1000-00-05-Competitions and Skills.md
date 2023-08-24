@@ -4,8 +4,10 @@ date: 2023-05-30 00:34:00 +0800
 pin: true
 mermaid: true
 categories: [Experiences]
+tags: [Personal Information]
 ---
-
+> You can also navigate the related posts using the above tags
+{: .prompt-tip }
 
 ## COMPETITIONS
 

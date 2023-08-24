@@ -3,8 +3,12 @@ title: Education and Research Experiences
 date: 2023-06-20 11:33:00 +0800
 pin: true
 categories: [Experiences]
+tags: [Personal Information]
 mermaid: true
 ---
+
+> You can also navigate the related posts using the above tags
+{: .prompt-tip }
 
 ![Desktop View](/images/graduate.jpg){: width="300" height="100" }
 

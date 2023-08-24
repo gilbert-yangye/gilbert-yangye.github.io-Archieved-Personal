@@ -26,15 +26,16 @@ description: >- # used by seo meta and the atom feed
   A personal webpage of Yang (Gilbert) Ye.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://gilbert-yy.github.io"
+url: "https://gilbert-yangye.github.io/"
 
 github:
-  username: gilbert-yy # change to your github username
+  username: gilbert-yangye # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
 linkedin:
-  username: in/yang-ye-855bb7148
+  username: in/gilbert-yang-ye-855bb7148/
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -43,10 +44,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/gilbert-yy # change to your github homepage
+    - https://gilbert-yangye.github.io/ # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/gilbert-yang-ye-855bb7148/
 
 google_site_verification: # fill in to your verification string
 

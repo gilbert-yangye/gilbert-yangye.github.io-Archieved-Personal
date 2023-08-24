@@ -3,8 +3,10 @@ title: Leadership and Service Experiences
 date: 2023-06-01 00:34:00 +0800
 pin: true
 categories: [Experiences]
+tags: [Personal Information]
 ---
-
+> You can also navigate the related posts using the above tags
+{: .prompt-tip }
 
 ## LEADERSHIP EXPERIENCES
 

@@ -1,9 +1,9 @@
 ---
 title: Force-based control for dexiteous robot operation 
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-29 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Human-Machine Interaction, Deep RL & Imitation Learning, Embodied AI, Simulation]
 ---
 

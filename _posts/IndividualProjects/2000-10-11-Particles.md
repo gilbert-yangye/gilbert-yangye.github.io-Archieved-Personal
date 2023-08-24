@@ -3,7 +3,7 @@ title: Numerical simulation for fluid particles using C++ with HPC
 date: 2023-05-20 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Computation, Simulation]
 ---
 

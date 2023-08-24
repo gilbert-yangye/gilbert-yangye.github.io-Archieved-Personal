@@ -1,9 +1,9 @@
 ---
 title: Multiplayer collaborative training
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-26 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Training, Human Psychology and Physiology, Virtual Reality, Multi-modal feedback]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Embodied AI for dexiteous and situational-awaring drone naviagation control 
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-30 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Deep RL & Imitation Learning, Embodied AI, Computation, Simulation, Human-Machine Interaction]
 ---
 

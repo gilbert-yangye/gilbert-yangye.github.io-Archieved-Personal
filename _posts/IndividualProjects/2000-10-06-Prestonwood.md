@@ -1,9 +1,9 @@
 ---
 title: A Virtual Reality (VR) Neighborhood for EMS Training - Prestonwood
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-25 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Training, Virtual Reality, Locomotion, Computer Graphics, Multi-modal feedback]
 ---
 

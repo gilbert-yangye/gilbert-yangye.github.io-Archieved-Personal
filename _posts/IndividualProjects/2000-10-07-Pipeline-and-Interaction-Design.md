@@ -1,9 +1,9 @@
 ---
 title: VR UI and storyline design
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-24 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Training, Virtual Reality, Locomotion, Exoskeleton, Multi-modal feedback]
 ---
 

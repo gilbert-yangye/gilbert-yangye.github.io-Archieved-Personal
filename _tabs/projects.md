@@ -11,7 +11,7 @@ skip: true
 > This page roughly classifies my projects by areas of research. See [**/tags**](https://gilbert-yangye.github.io/tags/) for posts classified by individual keywords.
 {: .prompt-tip }
 
-## **Human and Machine/Robot interaction**
+## Human and Machine/Robot interaction
 ![img-description](/images/Project/HCI.jpg){: width="200" height="200" }
 _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine-interaction-and-sensing/)_
 
@@ -22,7 +22,7 @@ _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine
 
 
 
-## **Telepresence, tele-training, and tele-operation**
+## Telepresence, tele-training, and tele-operation
 
 ![img-description](/images/Project/WeldingHuman.png){: width="200" height="200" }
 
@@ -33,7 +33,7 @@ _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine
 
 
 
-## **Artificial Intelligence**
+## Artificial Intelligence
 ![img-description](/images/Project/ai.jpg){: width="200" height="200" }
 _Image downloaed [**online**](https://magazine.wharton.upenn.edu/digital/the-future-of-artificial-intelligence-in-medicine/)_
 

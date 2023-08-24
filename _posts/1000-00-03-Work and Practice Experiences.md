@@ -3,8 +3,10 @@ title: Work and Practice Experiences
 date: 2023-06-10 14:10:00 +0800
 pin: true
 categories: [Experiences]
+tags: [Personal Information]
 ---
-
+> You can also navigate the related posts using the above tags
+{: .prompt-tip }
 
 ![Desktop View](/images/working-man.png){: width="100" height="100" }
 

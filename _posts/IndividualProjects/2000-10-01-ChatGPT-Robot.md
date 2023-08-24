@@ -1,9 +1,9 @@
 ---
 title: Large Language Models (ChatGPT) for Human-Robot Interaction
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-31 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Human-Machine Interaction, ChatGPT, Virtual Reality, Human Psychology and Physiology]
 ---
 

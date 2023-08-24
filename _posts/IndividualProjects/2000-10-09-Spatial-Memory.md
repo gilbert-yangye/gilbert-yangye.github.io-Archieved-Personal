@@ -1,9 +1,9 @@
 ---
 title: Human Spatial Memory Development
-date: 2023-05-20 00:34:00 +0800
+date: 2023-05-22 00:34:00 +0800
 pin: false
 hidden: true
-categories: [Projects, Individual Projects]
+categories: [Projects]
 tags: [Virtual Reality, Human Psychology and Physiology]
 ---
 
