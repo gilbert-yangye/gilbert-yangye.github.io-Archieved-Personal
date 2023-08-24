@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tagpost
 icon: fas fa-stream
 order: 1
 date: 2023-05-20 11:33:00 +0800
