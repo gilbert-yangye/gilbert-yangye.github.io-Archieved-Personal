@@ -4,7 +4,7 @@ date: 2023-05-20 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects, Individual Projects]
-tags: [Human-Machine Interaction, ChatGPT, Speech-to-text and Text-to-speech, Trust, Virtual Reality, Human Psychology and Physiology]
+tags: [Human-Machine Interaction, ChatGPT, Virtual Reality, Human Psychology and Physiology]
 ---
 
 

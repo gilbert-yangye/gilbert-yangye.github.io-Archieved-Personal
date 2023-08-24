@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa fa-address-card
-order: 5
+order: 6
 ---
 
 > You can also contact me via the icons on the bottom of the left sidebar.

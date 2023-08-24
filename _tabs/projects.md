@@ -1,56 +1,75 @@
 ---
-layout: tagpost
+layout: post
 icon: fas fa-stream
 order: 1
 date: 2023-05-20 11:33:00 +0800
+title: Research Projects
 toc: true
 skip: true
 ---
+
+> This page roughly classifies my projects by areas of research. See [**/tags**](https://gilbert-yangye.github.io/tags/) for posts classified by individual keywords.
+{: .prompt-tip }
 
 ## **Human and Machine/Robot interaction**
 ![img-description](/images/Project/HCI.jpg){: width="200" height="200" }
 _Image downloaed [**online**](https://mediax.stanford.edu/research/human-machine-interaction-and-sensing/)_
 
-1. [**Robot trainer: Robot-VR system for welding training**](https://www.eng-alliance.com/services-eng-aliance/civil-structural-engineering/structural-analysis-design) 
-2. [**HapticExoskeleton Training with MoCap and Whole-body Haptic Feedback]
-3. Force-based AI control for dexiteous robot operation
-4. Large Language Models (ChatGPT) for Human-Robot Interaction
+1. [Robot trainer: **Robot-VR** system with force guidance for welding training](https://gilbert-yangye.github.io/posts/Welding/) 
+2. [**Multi-modal feedback** for whole-body scale **exoskeleton** training](https://gilbert-yangye.github.io/posts/Haptic-Exoskeleton-training/) 
+3. [Force-based AI control for **dexiteous robot arm** operation](https://gilbert-yangye.github.io/posts/Embodied-Robot/)
+4. [Large Language Models (**ChatGPT**) in Human-Robot Interaction](https://gilbert-yangye.github.io/posts/ChatGPT-Robot/)
 
 
 
-## Tele-training and Tele-operation
-Robot-assisted immersive kinematic experience transfer for welding training
-Multiplayer collaborative training
-A Virtual Reality (VR) Neighborhood for EMS Training - Prestonwood
-Immersive Exoskeleton Training with MoCap and Whole-body Haptic Feedback
+## **Telepresence, tele-training, and tele-operation**
+
+![img-description](/images/Project/WeldingHuman.png){: width="200" height="200" }
+
+1. [**Robot trainer**: Digital motor skill tutor trains novice with a hands-on manner](https://gilbert-yangye.github.io/posts/Welding/) 
+2. [Multiplayer collaborative training: **See, hear, and feel** your co-workers](https://gilbert-yangye.github.io/posts/Multiplayer/)
+3. [A **VR Neighborhood** for EMS Training: Immersive navigation and task-performing](https://gilbert-yangye.github.io/posts/Prestonwood/)
+4. [Exoskeleton training **without any exoskeleton**: simulated haptic feedback for training](https://gilbert-yangye.github.io/posts/Haptic-Exoskeleton-training/)
 
 
 
-## AI
-A GNSS Satellite Selection Scheme based on Line-of-Sight and Satellite Geometry with a Machine Learning Approach
-Force-based AI control for dexiteous robot operation
-Embodied AI for dexiteous and situational-awaring drone naviagation control
-Large Language Models (ChatGPT) for Human-Robot Interaction
+## **Artificial Intelligence**
+![img-description](/images/Project/ai.jpg){: width="200" height="200" }
+_Image downloaed [**online**](https://magazine.wharton.upenn.edu/digital/the-future-of-artificial-intelligence-in-medicine/)_
+
+1. [Intelligent GNSS **signal filtering** scheme to improve GNSS localization accuracy](https://gilbert-yangye.github.io/posts/GNSS/)
+2. [**Force-aware AI** for dexiteous robot operation](https://gilbert-yangye.github.io/posts/Embodied-Robot/)
+3. [**Embodied situational-awaring AI** for drone naviagation](https://gilbert-yangye.github.io/posts/Embodied-Drone/)
+4. [Large Language Models (**ChatGPT**) for Human-Robot Interaction](https://gilbert-yangye.github.io/posts/ChatGPT-Robot/)
 
 
 
 ## Human biomechenics, phyiology, and psychology
-Human Spatial Memory Development
-Robot-assisted immersive kinematic experience transfer for welding training
-Multiplayer collaborative training
-Immersive Exoskeleton Training with MoCap and Whole-body Haptic Feedback
+![img-description](/images/Project/human.jpg){: width="200" height="200" }
+_Image downloaed [**online**](https://www.healthtransformation.net/understanding-the-mind-body-connection/)_
+
+1. [Robot-assisted **perceptual learning**: performance, cognition, and experience](https://gilbert-yangye.github.io/posts/Welding/) 
+2. [Whole-body scale **motion following** in VR for exoskeleton motor skill learning](https://gilbert-yangye.github.io/posts/Haptic-Exoskeleton-training/)
+3. [Human **Spatial Memory Development**: differences of learning with paper, 3D model, and VR](https://gilbert-yangye.github.io/posts/Spatial-Memory/)
+4. [Multiplayer collaborative training: experience and cognition impact of **feeling your virtual co-worker**](https://gilbert-yangye.github.io/posts/Multiplayer/)
 
 
 
-## Computation, programming, and development
-Numerical simulation for Game-of-Lift using C++ visualized by Python
-Numerical simulation for fluid particles using C++ with HPC
-Numerical simulation for wave propagation using Python
-A Virtual Reality (VR) Neighborhood for EMS Training - Prestonwood
-VR UI and storyline design
+
+## Computation
+![img-description](/images/Project/Game-of-Life.gif){: width="200" height="200" }
+
+1. [Game-of-Life: A numerical simulation using **C++**](https://gilbert-yangye.github.io/posts/GoL/)
+2. [Computational particle dynamics: Numerical simulation using **C++ and HPC**](https://gilbert-yangye.github.io/posts/Particles/)
+3. [Wave propagation: Numerical simulation using **Python**](https://gilbert-yangye.github.io/posts/Wave/)
 
 
 
-## Management
-A Cost-Benefit Analysis of Building Information Modelling’s (BIM) Application in Building’s Life Cycle in Hong Kong
+
+## Management and development
+![img-description](/images/Project/infrastructure.png){: width="200" height="200" }
+
+1. [A Virtual Reality Neighborhood for EMS Training - Prestonwood](https://gilbert-yangye.github.io/posts/Prestonwood/)
+2. [VR UI and **storyline** design and development](https://gilbert-yangye.github.io/posts/Pipeline-and-Interaction-Design/)
+3. [A Cost-Benefit Analysis of Building Information Modelling](https://gilbert-yangye.github.io/posts/BIM/)
 

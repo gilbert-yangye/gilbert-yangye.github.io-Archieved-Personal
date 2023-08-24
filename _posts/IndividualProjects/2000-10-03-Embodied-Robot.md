@@ -4,7 +4,7 @@ date: 2023-05-20 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects, Individual Projects]
-tags: [Human-Machine Interaction, Deep reinforcement learning, Imitation learning, Embodied AI, Simulation]
+tags: [Human-Machine Interaction, Deep RL & Imitation Learning, Embodied AI, Simulation]
 ---
 
 

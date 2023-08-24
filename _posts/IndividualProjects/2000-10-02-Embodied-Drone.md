@@ -4,7 +4,7 @@ date: 2023-05-20 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects, Individual Projects]
-tags: [Deep reinforcement learning, Drone, Embodied AI, Computation, Simulation, Human-Machine Interaction]
+tags: [Deep RL & Imitation Learning, Embodied AI, Computation, Simulation, Human-Machine Interaction]
 ---
 
 > **You can also navigate the related posts using the above tags**

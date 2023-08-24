@@ -4,7 +4,7 @@ date: 2023-05-20 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects, Individual Projects]
-tags: [Exoskeleton, MoCap, Virtual Reality, Haptic feedback, visual feedback, Training, Human Psychology and Physiology, Human-Machine Interaction]
+tags: [Exoskeleton, Virtual Reality, Multi-modal feedback, Training, Human Psychology and Physiology, Human-Machine Interaction]
 ---
 
 

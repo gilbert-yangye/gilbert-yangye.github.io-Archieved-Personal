@@ -4,7 +4,7 @@ date: 2023-05-20 00:34:00 +0800
 pin: false
 hidden: true
 categories: [Projects, Individual Projects]
-tags: [Multiplayer, Training, Human Psychology and Physiology, Virtual Reality]
+tags: [Training, Human Psychology and Physiology, Virtual Reality, Multi-modal feedback]
 ---
 
 
