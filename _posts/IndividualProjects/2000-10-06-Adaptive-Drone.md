@@ -1,5 +1,5 @@
 ---
-title: VR-based drone training: performance prediction and adaptive training
+title: VR-based drone training - performance prediction and adaptive training
 date: 2023-05-25 00:34:00 +0800
 pin: false
 hidden: true
