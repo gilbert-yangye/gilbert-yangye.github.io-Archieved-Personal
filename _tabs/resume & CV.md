@@ -4,7 +4,8 @@ icon: fa fa-address-card
 order: 6
 ---
 
-
+> Updated on Sept 21, 2023
+{: .prompt-info }
 
 ### [Download **CV**](/assets/CV_industry.pdf)
 
