@@ -1,6 +1,6 @@
 ---
 title: Personal Experiences
-date: 2023-06-20 11:33:00 +0800
+date: 2023-06-21 11:33:00 +0800
 pin: true
 categories: [Experiences]
 tags: [Personal Information]
